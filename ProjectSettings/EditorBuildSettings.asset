@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/QuizScene.unity
     guid: 5f0daf54c139e9f4fb2b86c3c5d1b75e
+  - enabled: 1
+    path: Assets/Scenes/StrongElectrolyteScene.unity
+    guid: b3dc46a1a23d40a43bd78d6e86548511
+  - enabled: 1
+    path: Assets/Scenes/WeakElectrolyteScene.unity
+    guid: cd10b806955ffb44ba878f7b41c34a57
+  - enabled: 1
+    path: Assets/Scenes/NonElectrolyteScene.unity
+    guid: b65fb6515463a0341b08436680db724b
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 280baab4dfad88d4caf97ebeea68dac4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: beecc536a18f50742bf88d8a9ddf52a3, type: 2}
